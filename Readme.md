@@ -1,1 +1,0 @@
-hello this is my second readme.md file created by commit using terminal 
